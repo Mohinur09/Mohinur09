@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi, My name is Mohinur surname is Ro'zmetova👋
+I am interesting english
+My skills:
+HTML
+CSS
+JavaScript
+Python
 
 <!--
 **Mohinur09/Mohinur09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
