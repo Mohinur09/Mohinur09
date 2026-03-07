@@ -20,7 +20,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asadbek11211&theme=react-dark&hide_border=true&area=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohinur09&theme=react-dark&hide_border=true&area=true" width="100%" />
 </p>
 
 <p align="center">
